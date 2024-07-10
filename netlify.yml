@@ -1,4 +1,0 @@
-[[plugins]]
-package = "@netlify/plugin-nextjs"
-  [plugins.inputs]
-  node_version = "14"
